@@ -1,0 +1,27 @@
+{
+  "name": "notes-applicatiion",
+  "version": "1.0.0",
+  "description": "Note taking app",
+  "main": "notes.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolafas/TDD-Matched-With-OOP.git"
+  },
+  "keywords": [
+    "notes",
+    "ttd"
+  ],
+  "author": "Alade michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolafas/TDD-Matched-With-OOP/issues"
+  },
+  "homepage": "https://github.com/kolafas/TDD-Matched-With-OOP#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
